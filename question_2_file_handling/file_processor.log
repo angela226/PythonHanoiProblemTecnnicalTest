@@ -1,0 +1,8 @@
+2025-02-25 00:36:04,345 - ERROR - Folder not found: ./data\test_folder
+2025-02-25 00:36:04,345 - ERROR - CSV file not found or invalid: ./data\sample-01-csv.csv
+2025-02-25 00:36:04,346 - ERROR - DICOM file not found: ./data\sample-01-dicom.dcm
+2025-02-25 00:38:35,590 - ERROR - CSV file not found or invalid: ./data\sample-01-csv.csv
+2025-02-25 00:38:35,590 - ERROR - DICOM file not found: ./data\sample-01-dicom.dcm
+2025-02-25 00:39:27,130 - ERROR - CSV file not found or invalid: ./data\sample-01-csv.csv
+2025-02-25 00:39:27,131 - ERROR - DICOM file not found: ./data\sample-01-dicom.dcm
+2025-02-25 00:40:45,433 - ERROR - DICOM file not found: ./data\sample-01-dicom.dcm
